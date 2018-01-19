@@ -1,4 +1,4 @@
-%% Plot Pics with transparent backgroumd
+%% Plot Pics with transparent background
 % f4 = figure;
 % clf;
 % gB = grains.boundary
